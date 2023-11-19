@@ -1,0 +1,1 @@
+{"version":1,"contracts":[{"id":"qbeafohhfqrb6","package_name":"hello_starknet","contract_name":"Storage","artifacts":{"sierra":"hello_starknet_Storage.contract_class.json","casm":null}}]}
